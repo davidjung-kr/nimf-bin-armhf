@@ -1,5 +1,5 @@
 # nimf-bin-armhf
-Armbian과 같은 Debina, Ubuntu의 ARM 아키텍처용 nimf 입력기 패키지 입니다.
+Armbian과 같은 Debian, Ubuntu의 ARM 아키텍처용 nimf 입력기 패키지 입니다.
 
 # Requirement
 ```
