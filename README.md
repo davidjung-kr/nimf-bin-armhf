@@ -14,4 +14,4 @@ sudo bash install.sh
 ```
 
 # Reference
-* [nimf (Hamonikr)](https://github.com/hamonikr/nimf]{https://github.com/hamonikr/nimf)
+* [nimf (Hamonikr)](https://github.com/hamonikr/nimf)
